@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sihbusapp/static/css/main.7d9dc2b7.css",
+    "main.js": "/sihbusapp/static/js/main.b0c4c99d.js",
+    "index.html": "/sihbusapp/index.html",
+    "main.7d9dc2b7.css.map": "/sihbusapp/static/css/main.7d9dc2b7.css.map",
+    "main.b0c4c99d.js.map": "/sihbusapp/static/js/main.b0c4c99d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d9dc2b7.css",
+    "static/js/main.b0c4c99d.js"
+  ]
+}
